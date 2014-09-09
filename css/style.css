@@ -10,3 +10,12 @@ li.done {
   font-size: 2em;
   text-align: center;
 }
+
+.progress .progress-bar {
+  font-size: 14px;
+  line-height: 14px;
+}
+
+.progress {
+  height: 15px;
+}
